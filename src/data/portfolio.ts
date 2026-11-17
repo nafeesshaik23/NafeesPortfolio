@@ -203,5 +203,5 @@ export const profile = {
   phone: "7989122675",
   linkedin: "https://linkedin.com/in/nafees-shaik-9b244924b",
   location: "Bangalore, India",
-  resumePath: "/Nafees_Resume_2026-09-23.pdf",
+  resumePath: "/Nafees_Resume.pdf",
 };
